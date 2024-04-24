@@ -10,4 +10,11 @@ public class Fila {
         }
         return instancia;
     }
+    public void ImprimeDocumento() {
+    }
+    public void RemoveDocumento() {
+    }
+    public void RemoveTodosDocumento() {
+    }
+
 }
